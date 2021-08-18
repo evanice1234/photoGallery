@@ -1,0 +1,22 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+body {
+    text-align: center;
+    background-color: #00e1ff;
+background-image: linear-gradient(315deg, #ffffff 0%, #ff00b3 74%);
+}
+p {
+    color: white;
+    font-size: 40px;
+    font-family: 'Redressed', cursive;
+}
+#grid{
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+}
+#bowl {
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+}
